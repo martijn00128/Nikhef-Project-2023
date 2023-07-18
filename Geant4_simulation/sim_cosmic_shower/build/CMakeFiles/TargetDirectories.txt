@@ -1,0 +1,4 @@
+/user/stu572/Downloads/sim_cosmic_shower/build/CMakeFiles/sim.dir
+/user/stu572/Downloads/sim_cosmic_shower/build/CMakeFiles/Simulation.dir
+/user/stu572/Downloads/sim_cosmic_shower/build/CMakeFiles/edit_cache.dir
+/user/stu572/Downloads/sim_cosmic_shower/build/CMakeFiles/rebuild_cache.dir
