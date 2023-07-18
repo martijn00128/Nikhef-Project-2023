@@ -1,0 +1,1 @@
+The simulation contains signal shape and cosmic flux simulation seperately. Using final.py to change parameters and run the code. The output will be in the build folder.
